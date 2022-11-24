@@ -1,20 +1,31 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual C# Express 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UberASMTool", "UberASMTool\UberASMTool.csproj", "{B17060A9-56FF-49C8-9182-A46BD4185544}"
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UberASMTool", "UberASMTool\UberASMTool.csproj", "{B17060A9-56FF-49C8-9182-A46BD4185544}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
 		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B17060A9-56FF-49C8-9182-A46BD4185544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B17060A9-56FF-49C8-9182-A46BD4185544}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B17060A9-56FF-49C8-9182-A46BD4185544}.Debug|x86.ActiveCfg = Debug|x86
 		{B17060A9-56FF-49C8-9182-A46BD4185544}.Debug|x86.Build.0 = Debug|x86
-		{B17060A9-56FF-49C8-9182-A46BD4185544}.Release|x86.ActiveCfg = Release|x86
-		{B17060A9-56FF-49C8-9182-A46BD4185544}.Release|x86.Build.0 = Release|x86
+		{B17060A9-56FF-49C8-9182-A46BD4185544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B17060A9-56FF-49C8-9182-A46BD4185544}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B17060A9-56FF-49C8-9182-A46BD4185544}.Release|x86.ActiveCfg = Release|Any CPU
+		{B17060A9-56FF-49C8-9182-A46BD4185544}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {817EDC27-33DF-4CF7-9DD9-A372AB7767E8}
 	EndGlobalSection
 EndGlobal
